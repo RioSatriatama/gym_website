@@ -1,6 +1,6 @@
 # gym_website
 
-webiste build using :
+Website build using :
 
 • HTML
 
